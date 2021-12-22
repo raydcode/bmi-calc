@@ -1,2 +1,3 @@
-# 100days_of_Javascript_Template
-Ready to Rage , ......... 
+# BMI Calculator
+
+# Live-Demo:https://raydcode.github.io/bmi-calc/
